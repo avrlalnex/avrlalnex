@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/bb/32/01/bb320172ebd5eee121d0f128bdd76686.png)
 <h1 align="center">Hi 👋, I'm Avril Lalaine</h1>
-<h3 align="center">aspiring frontend developer(?)</h3>
+<h3 align="center">aspiring frontend developer (?)</h3>
 
 </div><h3 align="center">Connect with me:</h3>
 <div align="center"> <a href="https://www.linkedin.com/in/avrlalne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
