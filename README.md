@@ -10,6 +10,7 @@
     <a href="linazaavril@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
+      
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -25,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
+
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrlalnex&layout=compact&theme=vision-friendly-dark" alt=avrlalnex />
 <p> <img src="https://komarev.com/ghpvc/?username=avrlalnex&label=Profile%20views&color=0e75b6&style=flat" alt="avrlalnex" /> </p>
