@@ -30,7 +30,6 @@
 <div align="center">
       
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrlalnex&layout=compact&theme=vision-friendly-dark" alt=avrlalnex />
-
 <p> <img src="https://komarev.com/ghpvc/?username=avrlalnex&label=Profile%20views&color=0e75b6&style=flat" alt="avrlalnex" /> </p>
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
