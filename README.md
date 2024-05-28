@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/bb/32/01/bb320172ebd5eee121d0f128bdd76686.png)
-<h1 align="center">Hi (👉ﾟヮﾟ)👉, I'm Avril Lalaine</h1>
+<h1 align="center">Avril Lalaine</h1>
 <h3 align="center">aspiring frontend developer - (?)</h3>
 
 </div><h3 align="center">Connect with me:</h3>
