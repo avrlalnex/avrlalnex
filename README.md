@@ -1,13 +1,24 @@
-![MasterHead](https://i.pinimg.com/originals/bb/32/01/bb320172ebd5eee121d0f128bdd76686.png)
+<img src="https://i.pinimg.com/originals/bb/32/01/bb320172ebd5eee121d0f128bdd76686.png" alt="MasterHead">
+
 <h1 align="center">Avril Lalaine</h1>
 <h3 align="center">:)</h3>
 
-</div><h3 align="center">Connect with me:</h3>
-<div align="center"> <a href="https://www.linkedin.com/in/avrlalne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="avrillalaine.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-      
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/avrlalne" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:avrillalaine.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<p align="center">
+  🌐 Check out my portfolio here:  
+  <a href="https://avrlalnex.github.io/portfolioo/" target="_blank">
+    https://avrlalnex.github.io/portfolioo/
+  </a>
+</p>
 <!--- <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
