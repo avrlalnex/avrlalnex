@@ -7,8 +7,6 @@
        style="object-fit:cover; border-radius:10px;" />
 </p>
 
-
-<!-- Name & Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=7FDBDA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avril+Lalaine!;Developer+%E2%80%A2+Designer+%E2%80%A2+Dreamer+%3A)" alt="Typing SVG" />
@@ -52,9 +50,7 @@
        alt="Most Used Languages" />
 </p>
 
-
 ---
-
 
 ### 🎶 Vibe While You Scroll  
 <p align="center">
