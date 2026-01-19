@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkY2Nvd2d2dXFuMGE3aTZmNmt4eXRjemF4bnZlbGxkMzlvdGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif"
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd242Ym13cXoyZnVkb2dmemVqcWQwbzJqc3B6emFmMnNubjV5Z2Y2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.gif"
        alt="One Piece Header"
        width="100%"
        height="250px"
