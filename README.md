@@ -44,8 +44,8 @@
 <tr>
 <td align="center" width="50%">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=avrlalnex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br/>
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=avrlalnex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br/> -->
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=avrlalnex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </td>
